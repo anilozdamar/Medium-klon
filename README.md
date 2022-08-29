@@ -1,4 +1,4 @@
-# Medium-sitesi-klonu
+# Medium-klon
 Bu projemde Medium websitesini klonladım.
 
 https://app.patika.dev/anilozdamar
